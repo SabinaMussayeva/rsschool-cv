@@ -1,21 +1,22 @@
-Sabina Mussayeva
-sabina.mussayeva@gmail.com
+#Sabina Mussayeva
+**[sabina.mussayeva@gmail.com](mailto:sabina.mussayeva@gmail.com)**
 
-Summary
-To obtain an internship at EPAM
+##Summary
+_To obtain an internship at EPAM_
 
-Skills
-SQL
-HTML
-CSS
+##Skills
+*SQL
+*HTML
+*CSS
 
-Code examples
+##Code examples
+[Github @SabinaMussayeva](https://github.com/SabinaMussayeva)
 
-Experience
-EY, 2018-2020
+##Experience
+_EY, 2018-2020_
 
-Education
-IAB, 2010
+##Education
+_IAB, 2010_
 
-Languages
-English, B2
+##Languages
+_English, B2_
